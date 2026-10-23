@@ -1,0 +1,6 @@
+{
+  "name": "STR ERP - Sammanthurai Branch",
+  "description": "Bilingual Sri Lankan Shop ERP & POS system for Sammanthurai branch with inventory, camera barcode scanner, Khata credit ledger, and WhatsApp billing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
